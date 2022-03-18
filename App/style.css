@@ -1,3 +1,7 @@
+body {
+    font-family: Consolas;
+}
+
 h1 {
     text-align: center;
     color: darkred;
